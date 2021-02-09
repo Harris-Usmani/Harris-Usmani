@@ -7,7 +7,8 @@ Here's [My Blog](https://nasirhm.github.io/posts/)
 Pronouns: He/Him/His
 
 ## Other Places on the Internet
-[@\_nasirhm_](https://twitter.com/_nasirhm_)
+
+[@\_nasirhm\_](https://twitter.com/_nasirhm_)
 
 [linkedin/nasirhm](https://www.linkedin.com/in/nasirhm)
 
@@ -23,6 +24,7 @@ You can find my contact Methods [here](https://nasirhm.github.io/contact/)
 ---
 
 ### My Github Stats
+
 ![Nasir's github Stats](https://github-readme-stats.vercel.app/api?username=nasirhm&theme=material-palenight)
 ![Nasir's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=nasirhm&theme=material-palenight&hide_langs_below=1&layout=compact)
 
