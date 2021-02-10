@@ -12,7 +12,7 @@
 
 ---
 
-> “Nothing is so dangerous to the progress of the human mind than to assume that our views of science are ultimate, that there are no mysteries in nature, that our triumphs are complete and that there are no new worlds to conquer.”
-> \- Humphry Davy
+> "You can do nothing, or you can take on the challenge of taking on the adversity. You have got to have faith. You have to have faith in whatever you believe in."
+> \- Brian Banks
 
 ---
