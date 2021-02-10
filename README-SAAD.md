@@ -16,3 +16,8 @@
 > \- Brian Banks
 
 ---
+
+### My Github Stats
+
+![Harris's github Stats](https://github-readme-stats.vercel.app/api?username=harris-usmani&theme=material-palenight)
+![Harris's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harris-usmani&theme=material-palenight&hide_langs_below=1&layout=compact)
