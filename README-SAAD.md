@@ -3,11 +3,9 @@
 <p align="center">
   <samp>
     Howdy, I'm Harris! 👋 <br>
-    **17** Year Old Software Dev<br>
-    :sparkles: Favorite Tech: JavaScript, React, Typescript, Python ... <br>
-    :notebook: I’m currently learning DS and Algo... 😭  <br>
-    :email:	saadpasta70@gmail.com <br>
-    :art: Portfolio: https://saadpasta.github.io <br>
-    :briefcase: LinkedIn: https://linkedin.com/in/saadpasta <br>
+    17 y/o Software Developer based in Karachi, Pakistan <br>
+    Favorite Tech: Python 3, JavaScript, React <br>
+    Contact Me: harrisusmani@protonmail.com <br>
+    LinkedIn: https://www.linkedin.com/in/harris-usmani-42b923139/ <br>
   </samp>
 </p>
