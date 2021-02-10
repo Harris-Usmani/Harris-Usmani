@@ -1,16 +1,23 @@
-### Hi there 👋
+<img src="https://github.com/Harris-Usmani/Harris-Usmani/blob/master/BannerGithub.png"/>
+ <hr></hr>
+<p align="center">
+  <samp>
+    Howdy, I'm Harris! 👋 <br>
+    17 y/o Software Developer based in Karachi, Pakistan <br>
+    Favorite Tech: Python 3, JavaScript, React <br>
+    Contact Me: harrisusmani@protonmail.com <br>
+    LinkedIn: https://www.linkedin.com/in/harris-usmani-42b923139/ <br>
+  </samp>
+</p>
 
-<!--
-**Harris-Usmani/Harris-Usmani** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+> "You can do nothing, or you can take on the challenge of taking on the adversity. You have got to have faith. You have to have faith in whatever you believe in."
+> \- Brian Banks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### My Github Stats
+
+![Harris's github Stats](https://github-readme-stats.vercel.app/api?username=harris-usmani&theme=material-palenight)
+![Harris's Languages Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harris-usmani&theme=material-palenight&hide_langs_below=1&layout=compact)
