@@ -4,7 +4,7 @@
   <samp>
     Howdy, I'm Harris! 👋 <br>
     22 y/o Software Developer based in Karachi, Pakistan <br>
-    Favorite Tech: Python 3, JavaScript, React <br>
+    Favorite Tech: JavaScript, React, TypeScript <br>
     Contact Me: harrisusmani@protonmail.com <br>
     LinkedIn: https://www.linkedin.com/in/harris-usmani-42b923139/ <br>
   </samp>
